@@ -1,0 +1,6 @@
+Wing IDE 的安装配置：
+
+1.在官网wingware.com/downloads下载最新版的Wing IDE,因为Wingware对这个软件是
+  收费的，在网上搜了一下破解的方法，安装成功了。
+
+2.参考WingIDE5-1破解.py
